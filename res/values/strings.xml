@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Massager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Come on, baby! Let\'s Massage!</string>
+    <string name="toggleButton_off">OFF</string>
+    <string name="toggleButton_on">ON</string>
+
+</resources>
